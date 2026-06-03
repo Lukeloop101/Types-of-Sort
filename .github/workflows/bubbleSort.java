@@ -15,7 +15,7 @@ class bubbleSort {
                     int temp = arr[secondCount];
                     arr[secondCount] = arr[secondCount + 1];
                     arr[secondCount + 1] = temp;
-                }
+                }//testing please work i BEG
             }
         }
     }
